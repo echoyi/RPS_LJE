@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea/
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+.data/
+.vector_cache/
+
+#Pre-calcualted weights
+*.npz
+*.pt
