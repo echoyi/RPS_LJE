@@ -2,7 +2,7 @@
 
 This repository is the official implementation of
 [Representer Point Selection via Local Jacobian Expansion for Classifier Explanation of Deep Neural Networks and Ensemble Models]()
-at NeurIPS 2021.
+at NeurIPS 2021. (will update the link)
 
 ## Introduction
 
@@ -12,6 +12,13 @@ Taylor Expansion on the Jacobian matrix.
 If you would like to cite this work, a sample bibtex citation is as following:
 
 ```
+@inproceedings{yi2021representer,
+ author = {Yi Sui, Ga Wu, Scott Sanner},
+ booktitle = {Advances in Neural Information Processing Systems},
+ title = {Representer Point Selection via Local Jacobian Expansion for Classifier Explanation of Deep Neural Networks and Ensemble Models},
+ year = {2021}
+}
+
 ```
 
 ## Set up
